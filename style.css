@@ -143,8 +143,11 @@ margin-left: 68%;
   }
   
 
- 
-  
+ .almanaque{
+  width: 90%;
+  margin-left: 5%;
+  margin-top: 15%;
+ }
  
 .fondo{
   width: 100%;
@@ -161,32 +164,20 @@ margin-left: 68%;
    color: #d40000;
     font-size: 224%;
     font-family: 'Julius Sans One', sans-serif;
-    margin-top: -160%;
+    margin-top: -340%;
+    font-weight: 600;
 }
-.parrafoDe{
 
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 16px;
-  text-align: center;
-  margin-top: 2%;
-  color: #313131;
-  font-weight: 500;
- 
- }
- .imagen4{
-width: 90%;
-margin-left: 5%;
- }
 
 .copas{
   width: 25%;
   margin-left: 36%;
   margin-top: -23%;
 }
-.whatsap{
-  width: 30%;
-  margin-left: 37%;
-  margin-top: -10%;
+.sombrero{
+  width: 25%;
+  margin-left: 38%;
+  margin-top: -21%;
 }
 
 .linea{
@@ -219,21 +210,17 @@ margin-left: 5%;
     color: #333333;
     font-size: 26px;
     font-family: 'Julius Sans One', sans-serif;
-}
-.menu{
-  
-  font-size: 17px;
-  text-align: center;
-  margin-top: 3%;
-  color: #3e3d3e;
-  font-weight: 600;
+    font-weight: 600;
 }
 
+
 .clik {
-  margin-left: 36%;
-  min-width: 130px;
-  height: 40px;
-  font-family: 28px;
+  margin-left: 34%;
+  min-width: 140px;
+  height: 50px;
+  font-weight: 600;
+  font-family: 'Julius Sans One', sans-serif;
+  font-family: 35px;
   padding: 5px 10px;
   font-weight: bold;
   cursor: pointer;
@@ -255,75 +242,46 @@ margin-left: 5%;
   margin-top: -5%;
 }
 
-.imagencuatro{
-  width: 80%;
-  margin-left: 10%;
 
-}
 
-.flor{
-  width: 25%;
-  margin-left: 80%;
-  margin-top: -245%;
-}
 
-.flor2{
-  width: 25%;
-  margin-left: -5%;
-margin-top: -25%;
- 
-}
 .parrafo3{
-  margin: 16%;
-    text-align: center;
-    color: #575757;
-    font-size: 26px;
-    font-family: 'Great Vibes', cursive;
-    margin-top: 10%;
-}
-.parrafo03{
-  margin: 16%;
-    text-align: center;
-    color: #575757;
-    font-size: 26px;
-    font-family: 'Great Vibes', cursive;
-    margin-top: -5%;
-}
-.parrafo4{
   margin: 15%;
-    text-align: center;
-    color:#DA7665;
-    font-size: 26px;
-    font-family: 'Great Vibes', cursive;
-    font-weight: 500;
-    margin-top: -3%;
+  text-align: center;
+ color: #d40000;
+  font-size: 224%;
+  font-family: 'Julius Sans One', sans-serif;
+  margin-top: 25%;
+  font-weight: 600;
+}
+
+.parrafo4{
+  text-align: center;
+  color: #333333;
+  font-size: 26px;
+  font-weight: 600;
+  font-family: 'Julius Sans One', sans-serif;
 }
 
 .parrafo5{
   margin: 15%;
-  margin-top: 15%;
-    text-align: center;
-    color:#F6B3B2;
-    font-size: 224%;
-    font-family: 'Great Vibes', cursive;
+  text-align: center;
+ color: #d40000;
+  font-size: 224%;
+  font-family: 'Julius Sans One', sans-serif;
+  margin-top: 25%;
+  font-weight: 600;
 }
-
-.parrafo10{
-  margin: 15%;
-    text-align: center;
-    color:#F6B3B2;
-    font-size: 224%;
-    font-family: 'Great Vibes', cursive;
-}
-
 .parrafo6{
-  margin: 16%;
-    text-align: center;
-    color: #575757;
-    font-size: 26px;
-    font-family: 'Great Vibes', cursive;
-    margin-top: -5%;
+  text-align: center;
+  color: #333333;
+  font-size: 26px;
+  font-weight: 600;
+  font-family: 'Julius Sans One', sans-serif;
+  margin-top: 5%;
 }
+
+
 .parrafo7{
   margin: 16%;
     text-align: center;
@@ -332,55 +290,10 @@ margin-top: -25%;
     font-family: 'Great Vibes', cursive;
     margin-top: -5%;
 }
-.parrafo11{
-  margin: 16%;
-    text-align: center;
-    color: #575757;
-    font-size: 26px;
-    font-family: 'Great Vibes', cursive;
-    margin-top: -5%;
-}
-.regalo{
-  width: 8%;
-  margin-left: 47%;
-  margin-top: -19%;
-}
-.musica{
-  width: 8%;
-  margin-left: 47%;
-  margin-top: -19%;
-}
-.foto1{
-  width: 90%;
-  margin-left: 5%;
-  margin-top: 6%;
-}
-.camila{
-  width: 34%;
-  margin-left: 34%;
-  margin-top: -15%;
-  
-  }
-.primary{
-  margin-left: 35%;
-  min-width: 130px;
-  height: 40px;
-  font-family: 25px;
-  padding: 5px 10px;
-  font-weight: bold;
-  cursor: pointer;
-  transition: all 0.3s ease;
-  position: relative;
-  display: inline-block;
-  outline: none;
-  border-radius: 5px;
-  z-index: 0;
-  background: #FBD9D9;
-  overflow: hidden;
-  border: 2px rgb(119, 119, 119);
-  color: rgb(86, 86, 86);
-  
-}
+
+
+
+
 .contenedorboton{
   margin-top: -12%;
 
@@ -389,23 +302,14 @@ margin-top: -25%;
   margin-top: 1%;
 }
 
-.gifmariposas3{
-  width: 8%;
-  margin-left: 48%;
- 
-}
-
-
-.gifmariposas2{
-  width: 12%;
-  margin-left: 45%;
-}
 
 .click2{
   margin-left: 26%;
-  min-width: 130px;
-  height: 40px;
-  font-family: 25px;
+  min-width: 140px;
+  height: 50px;
+  font-weight: 600;
+  font-family: 'Julius Sans One', sans-serif;
+  font-family: 40px;
   padding: 5px 10px;
   font-weight: bold;
   cursor: pointer;
@@ -415,27 +319,19 @@ margin-top: -25%;
   outline: none;
   border-radius: 5px;
   z-index: 0;
-  background: #FBD9D9;
+  text-decoration: none;
   overflow: hidden;
   border: 2px rgb(119, 119, 119);
-  color: rgb(86, 86, 86);
-  text-decoration: none;
+  color: #b2ebed;
+  margin-top: 1%;
+  background-image: url(./imagenes/0f24b609bc04816ced4a589a7c859da1.gif);
+  background-size: 50%;
 }
+
 .esperamos{
-  margin: 16%;
-  text-align: center;
-  color: #575757;
-  font-size: 30px;
-  font-family: 'Great Vibes', cursive;
-  margin-top: 25%;
-}
-.cajamusica{
-margin-top: -10%;
-}
-.selena{
-  width: 36%;
-  margin-left: 31%;
-  margin-top: -15%;
+  width: 40%;
+  margin-left: 28%;
+  margin-top: 23%;
 }
 }
   
@@ -499,9 +395,9 @@ margin-top: -3%;
 
 
 .logo{
-  width: 30%;
+  width: 25%;
   margin-left: 55%;
-  margin-top: -25%;
+  margin-top: -10%;
 }
 
 
@@ -666,16 +562,7 @@ margin-left: 68%;
   margin-top: 8%;
   
 }
-.contenedor-regalo{
-  text-align: center;
-}
-.contenedor-mapa{
-  display: flex;
-justify-content: center;
-align-items: center;
-margin-top: -20%;
 
-}
 .collapse p{
   text-align: center;
   font-family: 'Julius Sans One', sans-serif;
@@ -770,14 +657,7 @@ margin-top: -20%;
   }
 }
 
-.esperamos{
-text-align: center;
-font-family: 'Julius Sans One', sans-serif;
-   font-size: 30px;
-   color: #888888;  
-   margin-top: 20%;
-   
-} 
+
 
 
 
